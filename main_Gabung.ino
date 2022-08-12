@@ -13,14 +13,14 @@
 const char* ssid = "connect";
 const char* password = "okesiap1";
 
-#define API_KEY "AIzaSyAgklTOron3-Uvhd3wXcPJ_tnmkiMVTpdQ"
+#define API_KEY "xxx"
 
 // ENter Authorized Email and Password
-#define USER_EMAIL "kasdijknsmf@gmail.com"
-#define USER_PASSWORD "sakjdnjkasa"
+#define USER_EMAIL "xxx"
+#define USER_PASSWORD "xxx"
 
 // Enter Firebase storage bucket ID
-#define STORAGE_BUCKET_ID "imagefirebase-473cf.appspot.com"
+#define STORAGE_BUCKET_ID "xxx"
 
 #define IMAGE_PATH "/pictures/image.jpg"
 
@@ -89,7 +89,7 @@ void captureSave_photo( void ) {
 
 //AWAL DATABASE REALTIME//
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://imagefirebase-473cf-default-rtdb.firebaseio.com/"
+#define DATABASE_URL "xxx"
 
 unsigned long sendDataPrevMillis = 0;
 int count = 0;
